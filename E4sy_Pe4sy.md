@@ -23,4 +23,4 @@ When we login, we got flag. YEEEEEEEEEEES!
 
 # Flag = GrabCON{E4sy_pe4sy_SQL_1nj3ct10n}
 
-# Note: I can't add picture and photoes because of my pc.(Sorry)
+# Note: I can't add picture and photos because of my pc.(Sorry)
