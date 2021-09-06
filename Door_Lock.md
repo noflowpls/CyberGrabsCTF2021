@@ -15,9 +15,9 @@ So I have been crazy because sql injection not worked.
 But i noticed the (id) parameter and (values).
 
 # Final Soultion (IDOR)
-So I used Burpsuite to bruteforce the (Values) in the (?id=) parameter. And Burp show me the values (1766).
-So I paste the that value(1766) in the (?id=) parameter. Yessssssssssssssss!
-We got flag.
+So I used Burpsuite to bruteforce the (Values) in the (?id=) parameter.  And Burp show me the values (1766).
+So I paste the that value(1766) in the (?id=) parameter.  Yessssssssssssssss!
+  We got flag.
 
 Get_Flag_Url = http://34.135.171.18/profile/index.php?id=1766 
 
