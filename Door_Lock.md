@@ -11,7 +11,7 @@ So, i go to login page and trying sql payloads.
 Payload = admin' or '1'='1
 
 # Notice Parameter (?id=123)
-So I have been crazy because of this. 
+So I have been crazy because sql injection not worked. 
 But i noticed the (id) parameter and (values).
 
 # Final Soultion (IDOR)
