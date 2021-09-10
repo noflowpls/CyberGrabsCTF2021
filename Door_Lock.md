@@ -14,7 +14,7 @@ Payload = admin' or '1'='1
 So I have been crazy because sql injection not worked. 
 But i noticed the (id) parameter and (values).
 
-# Final Soultion (IDOR)
+# Final Solution (IDOR)
 So I used Burpsuite to bruteforce the (Values) in the (?id=) parameter.  And Burp show me the values (1766).
 So I paste the that value(1766) in the (?id=) parameter.  Yessssssssssssssss!
   We got flag.
